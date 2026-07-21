@@ -3,3 +3,6 @@
 /.gradle
 /.idea
 *.iml
+.jdks
+.intellijPlatform
+gradle.properties
