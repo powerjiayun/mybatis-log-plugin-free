@@ -14,7 +14,7 @@
 		<li>Click Tool -> MyBatis Log Free</li>
 		<li>Click MyBatis Log Free in the console</li>
 	</ol>
-    <a href="http://github.com/starxg/mybatis-log-plugin-free">github</a> | <a href="https://github.com/starxg/mybatis-log-plugin-free/issues">issues</a> | <a href="http://ko-fi.com/huangxingguang">donate</a>
+    <a href="https://github.com/starxg/mybatis-log-plugin-free">github</a> | <a href="https://github.com/starxg/mybatis-log-plugin-free/issues">issues</a> | <a href="https://ko-fi.com/huangxingguang">donate</a>
     ]]></description>
 
 	<depends>com.intellij.modules.platform</depends>
